@@ -1,0 +1,20 @@
+C:\Users\user\Source\Repos\Editor-de-Codigo\Editor de Codigo\bin\Debug\Editor de Codigo.exe.config
+C:\Users\user\Source\Repos\Editor-de-Codigo\Editor de Codigo\bin\Debug\Editor de Codigo.exe
+C:\Users\user\Source\Repos\Editor-de-Codigo\Editor de Codigo\bin\Debug\Editor de Codigo.pdb
+C:\Users\user\Source\Repos\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor de Codigo.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor_de_Codigo.Form1.resources
+C:\Users\user\Source\Repos\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor_de_Codigo.Properties.Resources.resources
+C:\Users\user\Source\Repos\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor de Codigo.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor de Codigo.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor de Codigo.exe
+C:\Users\user\Source\Repos\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor de Codigo.pdb
+C:\Users\Usuario\Source\Repos\Editor-de-Codigo\Editor-de-Codigo\Editor de Codigo\bin\Debug\Editor de Codigo.exe.config
+C:\Users\Usuario\Source\Repos\Editor-de-Codigo\Editor-de-Codigo\Editor de Codigo\bin\Debug\Editor de Codigo.exe
+C:\Users\Usuario\Source\Repos\Editor-de-Codigo\Editor-de-Codigo\Editor de Codigo\bin\Debug\Editor de Codigo.pdb
+C:\Users\Usuario\Source\Repos\Editor-de-Codigo\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor de Codigo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\Editor-de-Codigo\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor_de_Codigo.Form1.resources
+C:\Users\Usuario\Source\Repos\Editor-de-Codigo\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor_de_Codigo.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\Editor-de-Codigo\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor de Codigo.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\Editor-de-Codigo\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor de Codigo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\Editor-de-Codigo\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor de Codigo.exe
+C:\Users\Usuario\Source\Repos\Editor-de-Codigo\Editor-de-Codigo\Editor de Codigo\obj\Debug\Editor de Codigo.pdb
